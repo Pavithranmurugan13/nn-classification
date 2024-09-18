@@ -257,21 +257,25 @@ print("Pavithran MJ")
 
 ## Dataset Information
 
-<img src=image-1.png width=500 height=100>
+![image-1](https://github.com/user-attachments/assets/87014bac-64c5-4b62-b11a-4423bccaa181)
+
 
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
-<img src=image-2.png width= 300 height=200>
+
+![Screenshot 2024-09-18 235514](https://github.com/user-attachments/assets/1abdf144-6b16-4286-86c9-04391d1d2dd7)
 
 ### Classification Report
-<img src=image-3.png width=120 height=80>
+![Screenshot 2024-09-18 235145](https://github.com/user-attachments/assets/9eefdb42-c7c4-4390-87ba-fd6d7bb652d1)
+
 
 ### Confusion Matrix
-<img src= image-4.png width=200 height=120>
+![Screenshot 2024-09-18 235134](https://github.com/user-attachments/assets/03719287-7691-4a90-9713-6970590dfd9a)
 
 ### New Sample Data Prediction 
 
-<img src="image-5.png" width=100> <img src="image-6.png" width=100>
+![Screenshot 2024-09-18 235205](https://github.com/user-attachments/assets/c9a44ec5-de34-4543-add3-81f20b1d06f7)
+![Screenshot 2024-09-18 235158](https://github.com/user-attachments/assets/220115e4-e554-428c-a66a-e788a00309d7)
 
 ## RESULT
 A neural network classification model for the given dataset is successfully developed. 
